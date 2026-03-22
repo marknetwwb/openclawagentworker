@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+crewai
+crewai-tools
+chromadb
+python-dotenv
+openai
